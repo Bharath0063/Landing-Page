@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+marquee{
+    background-color: black;
+    color: white;
+}
+span{
+    text-decoration: underline;
+    color: yellow;
+}
+
+.banner{
+    height: 500px;
+    width: 100%;
+    
+}
+.footer{
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
